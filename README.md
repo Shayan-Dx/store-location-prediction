@@ -5,7 +5,7 @@
 - **رگرسیون خطی** برای پیش‌بینی امتیاز ۰ تا ۱۰۰
 
 ## ساختار پروژه
-- `data/store_location_dataset.csv`: مجموعه داده (۸۰۰ نمونه، ۷ ویژگی)
+- `dataset/store_location_dataset.csv`: مجموعه داده (۸۰۰ نمونه، ۷ ویژگی)
 - `notebooks/logistic_regression.ipynb`: آموزش و ارزیابی مدل طبقه‌بندی
 - `notebooks/linear_regression.ipynb`: آموزش و ارزیابی مدل رگرسیون
 
