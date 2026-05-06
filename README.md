@@ -1,4 +1,3 @@
-```markdown
 # 🏬 Store Location Suitability Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -134,4 +133,3 @@ This project was developed as a demonstration of machine learning fundamentals. 
 ---
 
 **Built with ❤️ and Python, powered by scikit‑learn.**
-```
